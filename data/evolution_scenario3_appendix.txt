@@ -1,0 +1,103 @@
+#{W0 -> 1, a0 -> 0.01, zb -> 10, r -> 0.5, l -> 0.05, b -> 0, q0 -> 0.045, qmin -> 0.005, h -> 0.1, Nu0 -> 5, w -> 0.2, u -> 5}
+p, zmin, zmax, ES, type
+0.,0,10,4.40305,CSS
+0.05,0,10,4.66597,CSS
+0.1,0,10,4.9204,CSS
+0.15,0,10,5.1659,CSS
+0.2,0,10,5.40212,CSS
+0.25,0,10,5.6288,CSS
+0.3,0,10,5.84579,CSS
+0.35,0,10,6.053,CSS
+0.4,0,10,6.25042,CSS
+0.45,0,10,6.43811,CSS
+0.5,0,10,6.61621,CSS
+0.55,0,10,6.78491,CSS
+0.6,0,10,6.94446,CSS
+0.65,0,10,7.09514,CSS
+0.7,0,10,7.23729,CSS
+0.75,0,10,7.37126,CSS
+0.8,0,10,7.49743,CSS
+0.85,0,10,7.61619,CSS
+0.9,0,10,7.72793,CSS
+0.95,0,10,7.83306,Branching point
+1.,0,10,7.93197,Branching point
+1.05,0,10,8.02503,Branching point
+1.1,0,10,8.11263,Branching point
+1.15,0,10,8.1951,Branching point
+1.2,0,10,8.27279,Branching point
+1.25,0,10,8.34603,Branching point
+1.3,0,10,8.41511,Branching point
+1.35,0,10,8.48031,Branching point
+1.4,0,10,8.5419,Branching point
+1.45,0,10,8.60013,Branching point
+1.5,0,10,8.65522,Branching point
+1.55,0,10,8.70739,Branching point
+1.6,0,10,8.75684,Branching point
+1.65,0,10,8.80375,Branching point
+1.7,0,10,8.84828,Branching point
+1.75,0,10,8.89061,Branching point
+1.8,0,10,8.93086,Branching point
+1.85,0,10,8.96918,Branching point
+1.9,0,10,9.00569,Branching point
+1.95,0,10,9.04051,Branching point
+2.,0,10,9.07373,Branching point
+2.05,0,10,9.10547,Branching point
+2.1,0,10,9.13581,Branching point
+2.15,0,10,9.16483,Branching point
+2.2,0,10,9.19262,Branching point
+2.25,0,10,9.21924,Branching point
+2.3,0,10,9.24477,Branching point
+2.35,0,10,9.26926,Branching point
+2.4,0,10,9.29277,Branching point
+2.45,0,10,9.31537,Branching point
+2.5,0,10,9.3371,Branching point
+2.55,0,10,9.358,Branching point
+2.6,0,10,9.37812,Branching point
+2.65,0,10,9.3975,Branching point
+2.7,0,10,9.41619,Branching point
+2.75,0,10,9.43421,Branching point
+2.8,0,10,9.4516,Branching point
+2.85,0,10,9.46838,Branching point
+2.9,0,10,9.4846,Branching point
+2.95,0,10,9.50028,Branching point
+3.,0,10,9.51544,Branching point
+3.05,0,10,9.5301,Branching point
+3.1,0,10,9.5443,Branching point
+3.15,0,10,9.55805,Branching point
+3.2,0,10,9.57137,Branching point
+3.25,0,10,9.58429,Branching point
+3.3,0,10,9.59681,Branching point
+3.35,0,10,9.60896,Branching point
+3.4,0,10,9.62075,Branching point
+3.45,0,10,9.6322,Branching point
+3.5,0,10,9.64332,Branching point
+3.55,0,10,9.65413,Branching point
+3.6,0,10,9.66464,Branching point
+3.65,0,10,9.67485,Branching point
+3.7,0,10,9.68479,Branching point
+3.75,0,10,9.69447,Branching point
+3.8,0,10,9.70388,Branching point
+3.85,0,10,9.71305,Branching point
+3.9,0,10,9.72198,Branching point
+3.95,0,10,9.73069,Branching point
+4.,0,10,9.73917,Branching point
+4.05,0,10,9.74745,Branching point
+4.1,0,10,9.75551,Branching point
+4.15,0,10,9.76339,Branching point
+4.2,0,10,9.77107,Branching point
+4.25,0,10,9.77857,Branching point
+4.3,0,10,9.78589,Branching point
+4.35,0,10,9.79304,Branching point
+4.4,0,10,9.80003,Branching point
+4.45,0,10,9.80686,Branching point
+4.5,0,10,9.81353,Branching point
+4.55,0,10,9.82006,Branching point
+4.6,0,10,9.82644,Branching point
+4.65,0,10,9.83269,Branching point
+4.7,0,10,9.83879,Branching point
+4.75,0,10,-6.07038,Unfeasible
+4.8,0,10,-6.06362,Unfeasible
+4.85,0,10,-6.057,Unfeasible
+4.9,0,10,-6.0505,Unfeasible
+4.95,0,10,-6.04413,Unfeasible
+5.,0,10,-6.03787,Unfeasible

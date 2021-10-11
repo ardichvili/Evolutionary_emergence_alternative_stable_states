@@ -1,5 +1,4 @@
 ## This script contains a temporal simulation of the adaptive dynamics of macrophytes
-## The code was originally made by Avril Weinbach then modified by Alice Ardichvili 
 
 ## Necessary packages to run the code --------------------------------------------------------------------------------------
 library(deSolve) # to use the ode function
